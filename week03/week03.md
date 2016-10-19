@@ -82,8 +82,8 @@ int main()
 	return 0;
 }
 ```
-
-// СЛОЖИ КАРТИНКА - ГРАФИКА
+Блок-схема:
+![alt tag](https://github.com/GeorgiMinkov/FMI_IS_UP_1_2016/blob/master/week03/image/Diagram_if.png)
 
 #### Пълна форма на if
 Синтаксис:
