@@ -74,7 +74,7 @@ if (<булев_израз>)
 int main()
 {
 	const int ALLOW_AGE = 18;
-	int age 16 18;
+	int age = 16;
 	
 	if (age < ALLOW_AGE) 
 		std::cout << "Drink denied" << std::endl;
