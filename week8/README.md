@@ -9,9 +9,7 @@
 # Многомерни масиви
 Масивът е структурен (съставен) тип данни, представляващ крайна редица от еднотипни елементи с **пряк достъп до всеки елемент**. **Многомерните масиви** обикновено се описват като **"масиви от масиви"**, но за да можем по-лесно да си го представим, ще използваме двумерен масив, който прилича на таблица или матрица(като по алгебра :D). Многомерните масиви, също като едномерните, са съставени от един и същ тип данни(int, char, double, и др.).
 
-![alt text][logo]
-
-[logo]: https://github.com/GeorgiMinkov/FMI_IS_UP_1_2016/blob/master/week8/matrixRep.jpeg 
+![alt text](https://github.com/GeorgiMinkov/FMI_IS_UP_1_2016/blob/master/week8/matrixRep.jpeg )
 
 Това е двумерен масив, който на С++, може да се декларира така: 
 ```c++
@@ -52,9 +50,7 @@
 ```
 Нагледно е това:
 
-![alt text][logo]
-
-[logo]: https://github.com/GeorgiMinkov/FMI_IS_UP_1_2016/blob/master/week8/matrixRepInit.jpeg 
+![alt text](https://github.com/GeorgiMinkov/FMI_IS_UP_1_2016/blob/master/week8/matrixRepInit.jpeg) 
 
 ##### Трети начин:
 Можем да  инициализираме двумерен масив и със стойности, въведени от клавиатурата.
@@ -74,9 +70,7 @@
     arr[1][3]; // индексирането в двумерни масиви, също е от 0 до броя на                      // елементите -1 в съответния ред или колона
 ```
 
-![alt text][logo]
-
-[logo]: https://github.com/GeorgiMinkov/FMI_IS_UP_1_2016/blob/master/week8/matrixRepAccess.jpeg 
+![alt text](https://github.com/GeorgiMinkov/FMI_IS_UP_1_2016/blob/master/week8/matrixRepAccess.jpeg) 
 
 ### Допустими операции
 Операции над цели двумерни масиви ***не са допустими***.
