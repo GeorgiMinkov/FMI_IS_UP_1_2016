@@ -28,7 +28,7 @@ int *ptr = &a;
 
 Когато сме инициализирали стойност както в случая по - горе със стойност 50 и на указател ptr стойност адреса на а. Тогава ако искаме да достъпим стойността на дадения адрес пишем - *ptr, по този начин казваме дай ми това което се намира на адреса към който сочи ptr.
 
-[!alt tag](https://github.com/GeorgiMinkov/FMI_IS_UP_1_2016/blob/master/week12/MemoryPointer.png)
+![alt tag](https://github.com/GeorgiMinkov/FMI_IS_UP_1_2016/blob/master/week12/MemoryPointer.png)
 
 Пример:
 ```c++
